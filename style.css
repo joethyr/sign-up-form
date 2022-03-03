@@ -1,0 +1,12 @@
+html, body {
+  display: flex;
+  height: 100%;
+  margin: 0;
+}
+
+.left-background {
+  min-width: 35%;
+  background-image: url(images/aedrian-slIzL6Rk4xI-unsplash.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
