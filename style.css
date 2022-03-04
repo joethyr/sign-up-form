@@ -37,6 +37,8 @@ html, body {
 }
 
 .right-background {
-    width: 60%;
-    background-color: #f7f8fa;
+  display: flex;
+  flex-direction: column;
+  width: 60%;
+  background-color: #f7f8fa;
 }
