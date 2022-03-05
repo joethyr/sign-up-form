@@ -39,6 +39,7 @@ html, body {
   margin: 20px 0;
 }
 
+
 .sidebar-logo {
   height: 150px;
   width: auto;
@@ -63,6 +64,10 @@ html, body {
   box-shadow: 0 8px 10px -7px gray;
 }
 
+.middle-section > h3 {
+  margin: 15px 0 10px 0;
+}
+
 form {
   display: flex;
   flex-direction: column;
@@ -72,7 +77,15 @@ form > div {
 }
 
 label {
+  margin-top: 15px;
   display: block;
+  font-size: 8px;
+  font-weight: bold;
+  letter-spacing: 1px;
+}
+
+input {
+  margin-right: 40px;
 }
 
 button {
