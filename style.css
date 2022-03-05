@@ -106,4 +106,12 @@ button:hover {
 
 .login-text:hover {
   cursor: pointer;
+  color: #996633;
+
+}
+
+.login-text {
+  color: #bf8040;
+  font-weight: 600;
+  text-decoration: none;
 }
