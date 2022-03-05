@@ -63,6 +63,18 @@ html, body {
   box-shadow: 0 8px 10px -7px gray;
 }
 
+form {
+  display: flex;
+  flex-direction: column;
+}
+form > div {
+  display: flex;
+}
+
+label {
+  display: block;
+}
+
 button {
   background-color: #bf8040;
   color: white;
