@@ -55,6 +55,7 @@ html, body {
 
 .middle-section {
   position: relative;
+  margin: 20px 0 10px 0;
   right: 35px;
   width: 100%;
   background-color: white;
