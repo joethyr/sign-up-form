@@ -101,6 +101,7 @@ button {
 
 button:hover {
   cursor: pointer;
+  background-color: #996633;
 }
 
 .login-text:hover {
