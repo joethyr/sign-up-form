@@ -24,7 +24,6 @@ html, body {
 
 .sidebar {
   top: 150px;
-  width: 100%;
   margin-top: 180px;
   background-color: #0000005d;
   display: flex;
@@ -53,13 +52,24 @@ html, body {
   justify-content: center;
 }
 
+.middle-section {
+  position: relative;
+  right: 35px;
+  width: 100%;
+  background-color: white;
+  padding: 10px 35px 20px;
+  -webkit-box-shadow: 0 8px 6px -6px gray;
+  -moz-box-shadow: 0 14px 6px -6px gray;
+  box-shadow: 0 8px 10px -7px gray;
+}
+
 button {
-    background-color: #bf8040;
-    color: white;
-    font-weight: bold;
-    border-radius: 6px;
-    border: none;
-    margin: 20px 0;
-    padding: 10px 40px 12px 40px;
-    box-shadow: 3px 3px rgba(224, 224, 224, 0.8)
+  background-color: #bf8040;
+  color: white;
+  font-weight: bold;
+  border-radius: 6px;
+  border: none;
+  margin: 20px 0;
+  padding: 10px 40px 12px 40px;
+  box-shadow: 3px 3px rgba(224, 224, 224, 0.8)
 }
