@@ -125,3 +125,11 @@ button:hover {
   left: 10%;
 }
 
+a:visited {
+  color: white;
+}
+
+a:hover {
+  color: gray;
+  background-color: transparent;
+}
