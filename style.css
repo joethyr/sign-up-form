@@ -116,3 +116,12 @@ button:hover {
   font-weight: 600;
   text-decoration: none;
 }
+
+.image-credit {
+  color: white;
+  font-size: 12px;
+  position: absolute;
+  bottom: 0;
+  left: 10%;
+}
+
