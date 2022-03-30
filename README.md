@@ -4,7 +4,7 @@ A sign-up form for an fictional service.
 
 ## Description
 
-This project is designed to let me implement the knowledge that I have learned over the past lesson in the _Intermediate HTML Concepts_ section.
+This project is designed to let me implement the knowledge that I have learned from  _Intermediate HTML Concept's_ Grid section.
 
 ## Getting Started
 
